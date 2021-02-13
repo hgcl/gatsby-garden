@@ -1,0 +1,11 @@
+{
+  "name": "foam",
+  "private": true,
+  "description": "",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "dev": "(cd _layouts/ && yarn develop)"
+  }
+}
