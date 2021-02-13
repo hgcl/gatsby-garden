@@ -1,6 +1,6 @@
 # Hello!
 
-Welcome to my digital garden&nbsp;🌻
+Welcome to my digital garden 🌻
  
  You can click on the links in brackets to go from one atomic note to another. Feel free to start here: [[about-this-digital-garden]].
  
