@@ -1,0 +1,18 @@
+---
+tags: [reference, article]
+source: "https://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed"
+author: "David Cain"
+publishingdate: "2010"
+dateretrieved: "2020-12-16"
+---
+
+# Your Lifestyle Has Already Been Designed
+
+- [[we-work-to-consume]]
+	- We don't need as much money as we earn to live—author is just back from 9 months backpacking.
+	- 9–5 job takes much of our time and mental space, we are tired at the end of the day and don't have energy to do much. We buy our way out of this lack of time and energy. We buy convenience, rewards, happiness.
+	- In other words, the more we work, the more it pushes us to consume. The more we consume, the more we have to work to afford it.
+	- We don't have time to live anymore
+	- Part time work is not the norm
+- [[parkinson-s-law]]
+	- The more time you have to do something, the more time you will take to do it. 
