@@ -15,5 +15,19 @@
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
-  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+    "ahrens",
+    "denialism",
+    "denialist",
+    "denialists",
+    "file-naming-in-this-pkm",
+    "fn",
+    "hildén",
+    "koponen",
+    "ln",
+    "pn",
+    "zettelkasten",
+    "zettelkasten-method"
+  ]
 }
