@@ -4,9 +4,11 @@ tags: [permanent]
 
 # Digital Garden as a Playground
 
-Just like with a lot of other projects, I tend to do a lot of [[tk-procrastilearning]] while creating this digital garden.
+When tending to digital garden, I tend to do a lot of [[tk-procrastilearning]] by overworking and overthinking things.
 
-My challenge is to let in a bit of chaos and allow myself to experiment. I need to write down my original thoughts and ideas more. My digital garden should be messy, an experimentation playground where serendipity can occur. If things are too tidy, nothing unexpected and organic will ever happen.
+My challenge is to let in a bit of chaos and allow myself to experiment. I need to write down my original thoughts and ideas more. My digital garden should be messy. It is an experimentation playground where serendipity can occur. 
+
+If things are too tidy, nothing unexpected and organic will ever happen.
 
 ---
 Relevant notes: 

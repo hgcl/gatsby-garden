@@ -11,7 +11,7 @@ A literature note follows the following four criteria:
 1. One literature note represents one atomic idea.
 2. It should be written in your own words.
 3. Write it in a way that you would understand it in 10 years.
-4. Always include references inline (Ahrens, 2017, pp.110) and at the end of your note (eg. *Ahrens, S. (2017). How to take smart notes: One simple technique.*)
+4. Always include references inline (Ahrens, 2017, pp.110) and at the end of your note (e.g. *Ahrens, S. (2017). How to take smart notes: One simple technique.*)
 
 ---
 Reference: [[§zettelkasten-method-2020]]

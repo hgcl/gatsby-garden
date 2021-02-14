@@ -14,7 +14,7 @@ dateretrieved: "2020-12-15"
 	- Results: life is better for individuals, but more unstable for families. Life is better for adults but worse for kids.
 - Extended vs Nuclear family
 	- Extended family was built to be resilient. If a link breaks, there is someone else to catch you. In the nuclear family model, if one relationship breaks, everything breaks, there is no shock absorber. Extended families also offer more role models for the kids.
-	- On the other hand, extended families can be tiring. Less privacy, intimate contact with people you didn't choose. The relationships are demanding.
+	- On the other hand, extended families can be tiring. Less privacy, intimate contact with people you didn’t choose. The relationships are demanding.
 - [[the-nuclear-family-as-an-ideal-is-a-myth]]
 	- The nuclear family could only exist with a set of ideal parameters from 1950–1965:
 		- Economical boom, easy for one man to have income for his entire family
@@ -22,12 +22,12 @@ dateretrieved: "2020-12-15"
 		- Nuclear families had to be more intertwined (= basically an extended family)
 	- Since the 1960s:
 		- Marriage is not about childbearing anymore, but about adult fulfillment
-		- Women don't want to stay at home anymore
+		- Women don’t want to stay at home anymore
 		- Divorce is rising, neighborhood communities are not as strong anymore
 		- Economically not viable anymore, except for the rich => both parents at work so who takes care of the children? Someone else that you need to pay to do the job (once taken care of by extended family)
 - Current debate
 	- Nowadays, when we talk about strengthening the family, we think about the nuclear family model.
-	- Problem: we don't live with the same parameters as 1950–1965. The nuclear family model would not work today.
+	- Problem: we don’t live with the same parameters as 1950–1965. The nuclear family model would not work today.
 - Modern cultural paradox
 	- Today, we want stability but also mobility and freedom. We want close families, but not the constraints and demanding lifestyle that made them possible.
 - Modern living arrangements
