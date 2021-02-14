@@ -6,6 +6,8 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "dev": "(cd _layouts/ && yarn develop)"
+    "dev": "(cd _layouts/ && yarn develop)",
+    "build": "(cd _layouts/ && yarn build)",
+    "start": "(cd _layouts/ && yarn start)"
   }
 }
