@@ -8,12 +8,12 @@ tags: [fleeting, permanent]
 
 To support [[foam]], the Markdown files in this PKM are named in *kebab-case*. 
 
-- All reference notes begin with a `§`.
-- [[tk-notes]] titles start with a `tk`.
+- All reference notes begin with a `§` symbol.
+- [[tk-notes]] titles start with the letters `tk`.
 
 ## Headlines
 
-After its front matter, each note also starts with a headline loosely written in *Title Case*.
+Each note also starts with a headline loosely written in *Title Case*.
 
 ---
 Relevant notes: [[tk-personal-knowledge-management]]

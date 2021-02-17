@@ -33,13 +33,20 @@ Casper sums up the book as:
   - Intention, attention, repetition
   - You can add an element of spirituality to it by infusing meaning into it and making it important.
 
+- Tradition vs. convention
+  - Convention: boring, formality, no why or connection with oneself
+  - Tradition: creative, evolving to our times, nurturing
+
 ## Possible rituals
 
-- Sacred reading
-  - Finding meaning and reflecting on your life experiences with a “sacred book” as a starting point. Casper uses _Harry Potter_ and even has a [sacred reading podcast of it](https://www.harrypottersacredtext.com/).
+- Connecting with yourself
+  - Gratitude journal
+  - Sacred reading
+    - Finding meaning and reflecting on your life experiences with a “sacred book” as a starting point. Casper uses _Harry Potter_ and even has a [sacred reading podcast of it](https://www.harrypottersacredtext.com/).
 - Connecting with nature
   - Walks
   - Pilgrimage
+  - Celebrate passing time: seasons, new moon, following liturgical calendars.
 
 
 ## Some things I do personally
