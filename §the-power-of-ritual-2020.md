@@ -13,9 +13,6 @@ As I started reading _The Power of Ritual_, I wrote a few lines about it in my [
 >
 > I have just started his book The Power of Ritual. In it, Casper explains how you can bring back meaning to things you do every day—it might be your brewing coffee routine, meditation or journaling practice. This idea of making things meaningful and intentional really speaks to me and I am looking forward to going back to the book—which doesn’t often happen with nonfiction.
 
-Casper sums up the book as: 
-> an invitation to deepen your rituals of connection across four levels: connecting with yourself, connective with the people around you, connecting with the natural world, connecting with the transcendent
-
 ## Unbundling process
 
   - fragmenting a single collection of diverse offerings into multiple different sources
@@ -37,21 +34,40 @@ Casper sums up the book as:
   - Convention: boring, formality, no why or connection with oneself
   - Tradition: creative, evolving to our times, nurturing
 
-## Possible rituals
-
-- Connecting with yourself
-  - Gratitude journal
-  - Sacred reading
-    - Finding meaning and reflecting on your life experiences with a “sacred book” as a starting point. Casper uses _Harry Potter_ and even has a [sacred reading podcast of it](https://www.harrypottersacredtext.com/).
-- Connecting with nature
-  - Walks
+## Connecting with self
+- Gratitude journal
+- Sabbath: for solo time, for play and creativity, tech sabbath
+- Sacred reading
+  - Finding meaning and reflecting on your life experiences with a “sacred book” as a starting point. Casper uses _Harry Potter_ and even has a [sacred reading podcast of it](https://www.harrypottersacredtext.com/).
+  - Four questions:
+  > 1. What's literally happening in the narrative? 
+  > 2. Where are we in the story? What allegorical images, stories, songs, or metaphors show up for you? 
+  > 3. What experiences have you had in your own life that come to mind? 
+  > 4. What action are you being called to make? 
+  
+## Connecting with others
+- 
+## Connecting with nature
+  - Create new traditions
   - Pilgrimage
   - Celebrate passing time: seasons, new moon, following liturgical calendars.
 
+## Connecting with transcendence
+- Prayer practice (disconnected from religion): adoration, confession, thanksgiving, supplication
+  - Adoration: beauty of the world, of a song, awe
+  - Confession: recognize your life as it is, with shortcomings and without the fluff, find a small confession group(?), recognize fears
+  - Thanksgiving: gratefulness, chain of things you are grateful for, can always start with the same (e.g. to be alive)
+  - Supplication: wishes, loving-kindness (same 3 intentions for yourself, someone you love, a stranger)
 
-## Some things I do personally
+Casper concludes the book with: 
+> First, you already have a host of rituals we might call spiritual practices — even if you'd never use that language. Reading, walking, eating, resting, reflecting; these are legitimate and worthy of your attention and care, and they can be the foundation of a life of deep connection. Second, I hope you feel empowered to translate ancient traditions to enrich those modern practices and that you feel permission to be creative in combining the ancient and the emergent.
+> 
+## Some rituals I already do
 
 - Brewing coffee
 - Daily yoga break
 - Turning off the computer by 7pm
 - Neatly folding clothes
+
+---
+Relevant resource: [Book review by Frederic and Mary Ann Brussat](https://www.spiritualityandpractice.com/book-reviews/view/28942/the-power-of-ritual)
